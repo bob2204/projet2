@@ -5,3 +5,5 @@ Quelques étapes :
 * Promenade dans les commits
 * Travail sur les modifications
 * Modification du commit précédent
+* Clonage d'un dépôt distant (Récupération)
+  git clone git@github.com:bob2204/projet1.git
